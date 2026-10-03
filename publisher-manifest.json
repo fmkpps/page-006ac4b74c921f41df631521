@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3e4d81869a1e3fe3ca38e66f",
+  "owner": "fmkpps",
+  "repo": "page-006ac4b74c921f41df631521",
+  "title": "橘子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "006ac4b74c921f41df631521",
+      "a": "橘子",
+      "b": "",
+      "entity": "橘子",
+      "brand": "橘子",
+      "separator": "",
+      "path": "index.html",
+      "hash": "416ce89f28ba97ca1b287349ff3cbdfaa2d2f319aedd3739ca00782b5ebf4ae9",
+      "content": {
+        "keyword1": "橘子",
+        "keyword2": "",
+        "primary_entity": "橘子",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "橘子是专业的机场VPN服务提供商，提供高速稳定的梯子网络加速、流媒体解锁及多平台客户端下载。访问橘子官网订阅套餐并获取官方推荐客户端。",
+          "AI_DESCRIPTION": "橘子是专业的机场VPN服务提供商，提供高速稳定的梯子网络加速、流媒体解锁及多平台客户端下载。访问橘子官网订阅套餐并获取官方推荐客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{background-color:#FDF6F0;color:#2C2C2C;font-family:system-ui,-apple-system,sans-serif;font-size:16px;line-height:1.7;margin:0;padding:0;overflow-x:hidden}*{box-sizing:border-box}.wrap{max-width:680px;margin:0 auto;padding:16px}header{text-align:center;padding:28px 12px 20px;border-bottom:4px solid #E85A4F}h1{font-size:2.4rem;color:#C73E32;margin:0 0 8px;letter-spacing:2px}.lead{font-size:1.05rem;color:#5A5A5A;margin:0}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 16px;padding:14px 8px;background:#fff;border-bottom:1px solid #F0D0C8}nav a{color:#C73E32;text-decoration:none;font-weight:600;font-size:0.95rem}main{padding:8px 0 40px}h2{font-size:1.45rem;color:#C73E32;margin:36px 0 14px;padding-bottom:6px;border-bottom:2px solid #F4A090}h3{font-size:1.15rem;color:#A33B32;margin:22px 0 8px}p{margin:0 0 14px}ul{margin:0 0 14px;padding-left:20px}.plan{background:#fff;border:1px solid #EDD0C8;border-radius:10px;padding:18px;margin-bottom:14px;position:relative}.featured{border:2px solid #E85A4F;background:#FFF8F5}.badge{position:absolute;top:-10px;right:16px;background:#E85A4F;color:#fff;font-size:0.75rem;padding:3px 10px;border-radius:10px}.price{font-size:1.5rem;font-weight:700;color:#C73E32;margin:8px 0 4px}.annual{font-size:0.88rem;color:#777;margin-bottom:12px}.feat{list-style:none;padding:0;margin:0}.feat li{padding:4px 0 4px 20px;position:relative}.feat li:before{content:\"●\";color:#E85A4F;position:absolute;left:0}.step{background:#fff;border-left:5px solid #E85A4F;padding:14px 16px;margin-bottom:12px;border-radius:0 8px 8px 0}.num{display:inline-block;background:#E85A4F;color:#fff;width:24px;height:24px;text-align:center;border-radius:50%;font-size:0.85rem;margin-right:8px;line-height:24px}.client-group{background:#fff;padding:14px;margin-bottom:12px;border-radius:8px;border:1px solid #F0D0C8}details{background:#fff;border:1px solid #EDD0C8;margin-bottom:8px;border-radius:8px}summary{padding:12px 16px;font-weight:600;color:#333}details p{padding:0 16px 14px;margin:0;color:#444}footer{background:#fff;padding:24px 16px;border-top:1px solid #E8C8C0;font-size:0.88rem;color:#666;text-align:center}.sitemap,.ads,.links{margin:16px 0}.links a,.sitemap a{color:#C73E32;text-decoration:none;margin:0 6px;display:inline-block}</style><div class=\"wrap\"><header><h1>橘子</h1><p class=\"lead\">专业机场订阅 · VPN加速器 · 多端客户端官方下载</p></header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav><main><section id=\"intro\"><h2>品牌简介</h2><p>橘子是面向全球用户的专业网络加速品牌，专注于提供高可用机场订阅与 VPN 梯子服务。我们通过精选优质节点、智能路由与持续运维，帮助用户稳定访问国际互联网资源，无论是流媒体观影、在线游戏还是跨境协作，橘子都能提供清晰低延迟的加速体验。</p><p>橘子官网集中展示套餐、客户端选择指南与订阅导入说明，用户无需寻找第三方渠道即可完成从购买到连接的全流程。服务覆盖主流桌面与移动平台，强调简单易用与长期稳定，年付用户可享受更优惠的价格与优先支持。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>海外流媒体解锁</h3><p>使用橘子旗舰版及以上套餐，可解锁 Netflix、Disney+、YouTube 等平台的地区限制内容，节点经过原生解锁优化，减少缓冲与验证失败，观影更流畅。</p><h3>游戏加速与低延迟对战</h3><p>IPLC 专线与游戏优化节点适合国际服玩家，降低丢包与延迟，支持多设备同时在线，适合家庭或小型工作室共同使用橘子加速。</p><h3>远程办公与学术访问</h3><p>稳定连接海外学术数据库、代码仓库与协作工具。团队版提供更高带宽与定制路由，满足企业级跨境办公需求。</p><h3>日常上网隐私保护</h3><p>加密传输保护浏览数据，避免公共网络窃听，适合出差、差旅与公共 Wi-Fi 环境，兼顾速度与安全。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>橘子提供灵活月付与年付优惠，年付更划算。所有套餐均含高速节点与基础支持，按设备数量、流量与解锁需求选择即可。推荐旗舰版作为个人主力方案。</p><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><span class=\"badge\">推荐</span><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></section><section id=\"clients\"><h2>客户端选择与下载</h2><p>橘子兼容主流开源与商业客户端，方便按设备与习惯自由选择。请从可信来源下载后导入橘子机场订阅链接。以下为推荐组合，本页重点帮助您完成客户端选择。</p><div class=\"client-group\"><h3>Windows 客户端</h3><p>推荐 Clash Verge、v2rayN。导入订阅后选择规则模式，可实现分流与系统代理，适合长期挂机。</p></div><div class=\"client-group\"><h3>macOS 客户端</h3><p>推荐 ClashX Meta、Surge。支持菜单栏快捷切换节点，规则更新方便，适合办公与创作用户。</p></div><div class=\"client-group\"><h3>iOS 客户端</h3><p>推荐 Shadowrocket、Quantumult X、Stash。在 App Store 获取后导入橘子订阅，一键连接，后台稳定。</p></div><div class=\"client-group\"><h3>Android 客户端</h3><p>推荐 Clash Meta for Android、v2rayNG。支持订阅自动更新与分应用代理，省电且灵活。</p></div><div class=\"client-group\"><h3>其他平台</h3><p>Linux 可使用 Clash 或 sing-box。路由器可导入订阅实现全家加速。下载时认准官方或 GitHub Release，避免修改版。</p></div><p>橘子官网提供选择与导入指南，不托管第三方安装包，确保来源清晰可控。</p></section><section id=\"guide\"><h2>操作说明</h2><p>按照下列纵向步骤即可快速开始使用橘子加速服务，从选套餐到连上节点通常只需几分钟。</p><div class=\"step\"><span class=\"num\">1</span> 在本页浏览套餐，选择基础版、旗舰版或团队版并完成支付，进入用户中心。</div><div class=\"step\"><span class=\"num\">2</span> 在用户中心复制专属机场订阅链接，建议同时备份保存，便于多设备使用。</div><div class=\"step\"><span class=\"num\">3</span> 打开上方客户端选择章节，按自己的系统下载并安装对应软件。</div><div class=\"step\"><span class=\"num\">4</span> 打开客户端，通过添加订阅或粘贴链接导入橘子配置，更新节点列表。</div><div class=\"step\"><span class=\"num\">5</span> 选择延迟低且符合用途的节点（观影选解锁节点、游戏选 IPLC），开启系统代理或 TUN 后即可加速上网。</div><p>若导入失败，请检查订阅是否在有效期、客户端是否为较新版本。旗舰版与团队版用户可提交优先工单获得协助。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>橘子是什么服务？和普通 VPN 有何不同？</summary><p>橘子是机场订阅型网络加速服务，提供大量优质节点供用户在自选客户端中使用。相比单一 App 的传统 VPN，灵活性更高，支持规则分流（国内直连、国外走代理），速度与稳定性通常更好，也便于更换客户端。</p></details><details><summary>如何下载橘子推荐的客户端？</summary><p>请先阅读本页「客户端选择与下载」章节，按 Windows、macOS、iOS、Android 等平台查看推荐软件名称，然后前往各客户端官方站点或 GitHub 发布页下载安装。导入橘子订阅链接后即可使用全部节点，无需寻找所谓破解版。</p></details><details><summary>橘子机场订阅支持哪些协议与导入方式？</summary><p>常见支持 VMess、VLESS、Trojan 与 Shadowsocks 等，具体以用户中心生成的订阅内容为准。Clash 系、Shadowrocket、Quantumult 等均可直接粘贴订阅地址或使用二维码导入，更新后自动同步节点。</p></details><details><summary>流量用尽或需要更多设备同时在线怎么办？</summary><p>基础版每月 100GB、最多 3 台设备；旗舰版 300GB、5 台；团队版 1000GB、20 台。流量或设备不足时可在官网升级，年付用户按剩余天数折算差价。升级后订阅链接一般无需更换。</p></details><details><summary>是否支持 Netflix、ChatGPT 等服务解锁？</summary><p>旗舰版与团队版提供全节点原生流媒体解锁，并优化部分 AI 服务访问线路。基础版仅含基础解锁能力。若您以观影或跨境 AI 工具为主，建议直接选择旗舰版以获得更稳定的解锁表现。</p></details><details><summary>如何确认访问的是橘子官网并避免假冒站点？</summary><p>请收藏本页并核对浏览器地址。橘子不会通过陌生链接或即时通讯索要密码。订阅链接仅在登录后的用户中心显示，请勿将订阅分享给不信任的人，以免流量被盗用。</p></details><details><summary>退款、售后与工单如何处理？</summary><p>新购未产生大量消耗前可协商退款，具体以购买页说明为准。旗舰版享有 7x24 优先工单，团队版另有专属客户经理。遇到节点或客户端导入问题，优先通过官网工单提交日志与设备信息，便于快速定位。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"sitemap\"><strong>网站地图</strong><br><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">指南</a><a href=\"#faq\">FAQ</a></div><div class=\"ads\"><strong>推广信息</strong><p>橘子年付套餐更优惠。选择旗舰版可同时获得 IPLC 游戏加速、全节点流媒体解锁与优先工单。本站为橘子官方网站，提供正版机场订阅说明与客户端选择指导。</p></div><div class=\"links\"><strong>友情链接</strong><br><a href=\"#\">网络工具导航</a><a href=\"#\">开源客户端百科</a><a href=\"#\">流媒体解锁指南</a></div><p>© 橘子官方网站 · 保留所有权利</p></footer></div>",
+          "hash": "e6e0dcdbaa2a3c569ce0bd30da4a92766e9bc47b398fc5ac2d4b323d5e2020bc",
+          "seo": {
+            "title": "橘子官网｜橘子机场VPN加速器客户端下载与网络加速服务",
+            "keywords": "橘子,橘子机场,橘子VPN,橘子官网,机场订阅,VPN加速器,梯子,网络加速,客户端下载,Clash,Shadowrocket,官方下载",
+            "description": "橘子是专业的机场VPN服务提供商，提供高速稳定的梯子网络加速、流媒体解锁及多平台客户端下载。访问橘子官网订阅套餐并获取官方推荐客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xr16lg.cn",
+    "host": "p-223756c11c.xr16lg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "jfyuxim.cn",
+      "url": "https://jfyuxim.cn/",
+      "label": "橘子",
+      "apex": "jfyuxim.cn",
+      "kind": null,
+      "identity": "ybepvqmnk/page-a7befb0f2d3fd49cbf014439"
+    },
+    {
+      "host": "xn--cesp39atvvvhl.com",
+      "url": "https://xn--cesp39atvvvhl.com/",
+      "label": "橘子",
+      "apex": "xn--cesp39atvvvhl.com",
+      "kind": null,
+      "identity": "qvrvvhyp/page-e55c0b58d2ab3d1e6dd7cc82"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3165ccfecb545a466e8145a45f72dd2d2a222d3dd6455cfa251f1938acb21578",
+    "sitemap.xml": "fdcd03b3830737c7462649c76208096927afa9a2aea0819abbfdcc9ae5592a5e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2fd0be88341071b2070d13eb58685b52b7889858a3557d15945b12ca3238b949",
+    "robots.txt": "66830ca4de3978023ee2b32aa2205bda9675e0eaa9c7b3d000c93a59f46506ad",
+    "137e7df2dbee10e94842451ba0a924ae.txt": "b2bb285bb50eb8e016d0dadbb6db06af3891d8e11219e83becae518cedea0759"
+  },
+  "revision": "079315437905a3d116c3888833376338b38b7fd52315b9eb223b9beec04c0e36"
+}
